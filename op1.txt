@@ -1,0 +1,58 @@
+OUTPUT
+
+C:\Users\4082\Desktop\Vivek>javac crypto1.java
+
+C:\Users\4082\Desktop\Vivek>java crypto1
+
+
+Menu
+1)Encrypt
+2)Decrypt
+3)Analyze
+4)Exit
+Choice:
+1
+Enter text:
+hello world
+
+Enter key:
+3
+Encrypted value:khoor zruog
+
+
+Menu
+1)Encrypt
+2)Decrypt
+3)Analyze
+4)Exit
+Choice:
+2
+Enter text:
+khoor zruog
+
+Enter key:
+3
+Decrypted text : hello world
+
+
+Menu
+1)Encrypt
+2)Decrypt
+3)Analyze
+4)Exit
+Choice:
+3
+Enter text:
+khoor zruog
+
+ Key could be :3
+
+
+Menu
+1)Encrypt
+2)Decrypt
+3)Analyze
+4)Exit
+Choice:
+4
+Enter text:
